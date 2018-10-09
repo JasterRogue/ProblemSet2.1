@@ -50,12 +50,12 @@ public class BankAccount {
         this.customer = customer;
     }
 
-    public String toString()
+  /*  public String toString()
     {
         return "\nAccount Number: " + getAccnum() +
                 "\nBalance: " + getBalance() +
                 "\nAccount Holder: " + customer.getName();
-    }
+    }*/
 
     public void lodgeMoney()
     {
